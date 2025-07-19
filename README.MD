@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="center">I'm a developer who loves working across the stack, exploring new tools, and building things that make an impact.</p>
+<p align="center">I'm Hemant, a developer who loves working across the stack, exploring new tools, and building things that make an impact.</p>
 
 ---
 
@@ -78,11 +78,32 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Most Used Languages
 
+  <div align="center" class="top-langs-card">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=213Hemant&layout=compact&theme=dracula&langs_count=6&hide_progress=false" alt="Top Languages" width="300"/>
+  </div>
+
+
+
+
+
+## 📈 GitHub Stats Overview
+<p align="center">
+  <!-- Custom GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=213Hemant&show_icons=true&theme=dracula&hide_border=false&count_private=false" alt="GitHub Stats" width="325" height="165" />
+</p>
+
+
+## 📈 Highlights
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=213Hemant&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=213Hemant&theme=dracula&no-frame=false&no-bg=false&margin-w=8&margin-h=8" height="150" />
+
+
+## 🏆 Github Trophies 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=213Hemant&theme=radical&no-frame=false&no-bg=true&margin-w=8&&row=2&column=4" />
 </p>
 
 ---
@@ -96,3 +117,14 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
   </picture>
 </p> -->
+
+
+<p align="center">
+  <b>🙏 Thanks for stopping by!</b><br>
+  <br>
+  Feel free to connect, collaborate, or just say hi 👋<br>
+  Have a great day and happy coding! 🚀
+</p>
+
+---
+---
